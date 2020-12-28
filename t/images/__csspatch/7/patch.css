@@ -1,0 +1,56 @@
+html.title-page body { background-color: rgb(0, 0, 0); }
+html.title-page a { color: rgb(255, 109, 56); }
+html.title-page .wrapper { background-color: rgb(0, 0, 0); }
+html.title-page .block-70 { background-image: linear-gradient(rgb(255, 109, 56), rgba(255, 109, 56, 0.14)), url("ba718ca61f0ced49ff4d02610c5e54e0.jpeg"), repeating-linear-gradient(to left, rgb(74, 74, 74) 0%, rgba(74, 74, 74, 0.29) 100%); }
+html.title-page .form-82 .form__text { color: rgb(255, 255, 255); }
+html.title-page .form-82 .form-submit button { background-color: rgb(255, 109, 56); }
+html.title-page .form-82 .form-submit button { box-shadow: transparent 0px 0px 0px, rgb(74, 74, 74) 0px 10px 40px; }
+html.title-page .blocklist-79 .title { color: rgb(255, 109, 56); }
+html.title-page .block-66 { background-image: linear-gradient(rgba(0, 0, 0, 0.51), rgba(74, 74, 74, 0.12)); }
+html.title-page .block-67 { background-color: rgb(255, 255, 255); }
+html.title-page .block-4 { background-image: url("f359ffe9231d1dba3222f85b23a7108d.png"), url("0210d8638b0f015b7e8777c8c472b532.png"), url("f359ffe9231d1dba3222f85b23a7108d.png"), url("0277a54fb388abbec49b206d0a700815.jpeg"); }
+html.title-page .block-4 { background-color: rgb(0, 0, 0); }
+html.title-page .widget-4 { color: rgb(255, 255, 255); }
+html.title-page .address-37 .text_body { color: rgb(255, 255, 255); }
+html.title-page .menu-3 .menu-scroll > ul ul { background-color: rgb(0, 0, 0); }
+html.title-page .menu-3 .menu-scroll > ul > li.menu-item > a { color: rgb(255, 255, 255); }
+html.title-page .menu-3 .menu-scroll > ul > li.menu-item > a:hover { box-shadow: rgb(0, 0, 0) 0px 0px 0px 1px inset; }
+html.title-page .editable_block-11 .text { color: rgb(255, 255, 255); }
+html.title-page .editable_block-11 .more > a { box-shadow: transparent 0px 0px 0px, rgb(0, 0, 0) 0px 10px 40px; }
+html.title-page .block-51 { background-image: linear-gradient(rgba(74, 74, 74, 0.45), rgba(74, 74, 74, 0.29)), url("4b899824ed8b03513aaddfddb3f238d3.jpeg"); }
+html.title-page .widget-56 { box-shadow: transparent 0px 0px 0px, rgb(255, 255, 255) 0px 10px 40px; }
+html.title-page .block-49 { box-shadow: rgb(0, 0, 0) 0px 15px 35px; }
+html.title-page .widget-41 { background-image: linear-gradient(to right, rgb(0, 0, 0) 0%, rgba(74, 74, 74, 0) 100%), url("541c7c2f1a3ba155fe77d14182f03902.jpeg"); }
+html.title-page .editable_block-22 .text { color: rgb(255, 255, 255); }
+html.title-page .editable_block-22 .more > a { box-shadow: transparent 0px 0px 0px, rgb(19, 17, 48) 0px 10px 40px; }
+html.title-page .editable_block-22 .more > a:active { box-shadow: rgb(0, 0, 0) 0px 2px 4px 0px inset, transparent 0px 0px 0px; }
+html.title-page .block-35 { background-image: linear-gradient(rgb(0, 0, 0), rgba(74, 74, 74, 0.24)), url("ba718ca61f0ced49ff4d02610c5e54e0.jpeg"); }
+html.title-page .form-17 .form-submit button { box-shadow: transparent 0px 0px 0px, rgb(74, 74, 74) 0px 10px 40px; }
+html.title-page .block-73 { background-image: linear-gradient(rgb(0, 0, 0), rgba(74, 74, 74, 0.56)), url("d411c86ef6183c0dc6e0bebe190dccfc.jpeg"); }
+html.title-page .block-76 { background-color: rgb(74, 74, 74); }
+@media (max-width: 640px) { html.title-page .block-51 { background-image: linear-gradient(rgba(74, 74, 74, 0.28), rgba(74, 74, 74, 0.3)), url("a04aee0ada41abad37b78fefa7b0dfb1.jpeg"); } }
+html .mg-but1 { background-color: rgb(249, 94, 28); }
+html .mg-but1 { background-image: linear-gradient(rgb(227, 227, 227), rgb(155, 155, 155)); }
+html .mg-but1:hover { background-color: rgb(249, 94, 28); }
+html .mg-but1:hover { background-image: linear-gradient(rgb(249, 94, 28), rgb(249, 94, 28)); }
+html .mg-but1:active { background-color: rgb(249, 94, 28); }
+html .mg-but1:active { background-image: linear-gradient(to top, rgb(249, 94, 28), rgb(249, 94, 28)); }
+html body { background-color: rgb(0, 0, 0); }
+html .wrapper { background-color: rgb(74, 74, 74); }
+html .block-70 { background-image: linear-gradient(rgb(255, 109, 56), rgba(255, 109, 56, 0.13)), url("ba718ca61f0ced49ff4d02610c5e54e0.jpeg"), repeating-linear-gradient(to left, rgb(0, 0, 0) 0%, rgba(74, 74, 74, 0.51) 100%); }
+html .form-82 .form__text { color: rgb(255, 255, 255); }
+html .form-82 .form-submit button { box-shadow: transparent 0px 0px 0px, rgb(0, 0, 0) 0px 10px 40px; }
+html .block-4 { background-image: linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0)), url("f359ffe9231d1dba3222f85b23a7108d.png"), url("0210d8638b0f015b7e8777c8c472b532.png"), url("f359ffe9231d1dba3222f85b23a7108d.png"), url("541c7c2f1a3ba155fe77d14182f03902.jpeg"); }
+html .widget-4 { color: rgb(255, 255, 255); }
+html .menu-3 .menu-scroll > ul ul { background-color: rgb(0, 0, 0); }
+html .menu-3 .menu-scroll > ul > li.menu-item > a { color: rgb(255, 255, 255); }
+html .block-51 { background-image: linear-gradient(rgb(0, 0, 0), rgba(74, 74, 74, 0.24)), url("ba718ca61f0ced49ff4d02610c5e54e0.jpeg"); }
+html .block-54 { box-shadow: rgb(0, 0, 0) 0px 10px 25px; }
+html .widget-56 { box-shadow: transparent 0px 0px 0px, rgb(255, 255, 255) 0px 10px 40px; }
+html .content-55 a { color: rgb(74, 74, 74); }
+html .widget-41 { background-image: linear-gradient(to right, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%), url("541c7c2f1a3ba155fe77d14182f03902.jpeg"); }
+html .editable_block-22 .text { color: rgb(255, 255, 255); }
+html .editable_block-22 .more > a { box-shadow: transparent 0px 0px 0px, rgb(0, 0, 0) 0px 10px 40px; }
+html .block-73 { background-image: linear-gradient(rgb(0, 0, 0), rgba(74, 74, 74, 0.62)), url("d411c86ef6183c0dc6e0bebe190dccfc.jpeg"); }
+html .block-76 { background-color: rgb(74, 74, 74); }
+@media (max-width: 640px) { html .block-51 { background-image: linear-gradient(rgba(156, 160, 160, 0.86), rgba(156, 160, 160, 0.86)), url("ba718ca61f0ced49ff4d02610c5e54e0.jpeg"); } }
